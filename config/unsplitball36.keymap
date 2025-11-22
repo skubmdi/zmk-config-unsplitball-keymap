@@ -136,7 +136,7 @@
 		bt_sel_3	{ slow-release; timeout-ms = <40>; key-positions = < 8 18>; bindings = <&bt BT_SEL 3>; };
 		bt_sel_4	{ slow-release; timeout-ms = <40>; key-positions = < 9 19>; bindings = <&bt BT_SEL 4>; };
 		bt_clr		{ slow-release; timeout-ms = <40>; key-positions = <9 19 29>; bindings = <&bt BT_CLR>; };
-		out_tog		{ slow-release; timeout-ms = <40>; key-positions = <5 15 25>; bindings = <&bt OUT_TOG>; };
+		out_tog		{ slow-release; timeout-ms = <40>; key-positions = <5 15 25>; bindings = <&out OUT_TOG>; };
 		
 		// macro
 		home	{ slow-release; timeout-ms = <40>; key-positions = <13 16>; bindings = <&home>; };
