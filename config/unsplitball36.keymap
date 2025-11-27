@@ -75,7 +75,7 @@
 				&kp Q	&kp W		&kp E			&kp R			&kp T			&kp Y			&kp U	&kp I		&kp O		&kp P
 				&kp A	&kp S		&kp D			&kp F			&kp G			&kp H			&kp J	&kp K		&kp L		&kp SEMI
 				&kp Z	&kp X		&kp C			&kp V			&kp B			&kp N			&kp M	&kp COMMA	&kp DOT		&kp SLASH
-						&base_layer	&lt NUMB ESC	&lt FUNC SPACE	&lt NUMB TAB	&lt NUMB INT2	&lt FUNC ENTER
+						&base_layer	&lt NUMB ESC	&lt FUNC SPACE	&lt CTRL TAB	&lt NUMB INT2	&lt FUNC ENTER
 			>;
 		};
 		dvorak {
